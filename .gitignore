@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Datasets
+A Multi-Class Medicinal Plant Leaf Dataset with Mu/
+A Multi-Class Medicinal Plant Leaf Dataset with Mu*
+
+# IDEs
+.idea/
+.vscode/
+
+# Local Environment Variables
+.env
+.env.local
+
+# Build Outputs & Logs
+*.log
+create_output.txt
+devices_output.txt
+doctor_output.txt
+doctor_output_path.txt
+temp_synthetic_val/
+
+# Flutter specific build files
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.metadata
+flutter_app/pubspec.lock

@@ -1,0 +1,55 @@
+# AgriShield AI - Agricultural Care & Disease Treatment Knowledge Base
+
+## Section 1: General Plant Health Guidelines
+Healthy plants require three main things: light, proper watering, and balanced nutrients. 
+- Overwatering is the number one cause of root rot and fungal infections. Always check the top 2 inches of soil before watering.
+- Underwatering leads to dry leaves, crispy tips, and nutrient starvation.
+- Nitrogen (N) is crucial for leaf growth. Phosphorus (P) is needed for root and flower development. Potassium (K) helps overall disease resistance.
+
+---
+
+## Section 2: Potato Late Blight and Early Blight Management
+Potato Blight is a common fungal-like disease that spreads rapidly in cool, wet weather.
+- Early Blight is caused by the fungus Alternaria solani. It manifests as dark, concentric rings (target spots) on older leaves.
+- Late Blight is caused by the oomycete Phytophthora infestans. It shows as dark, water-soaked lesions that grow rapidly and can destroy entire crops in days.
+- Organic Treatment: Spray copper-based fungicides every 7-10 days in wet seasons. Apply organic mulch at the soil base to prevent soil-borne spores from splashing onto lower leaves.
+- Chemical Control: Use systemic fungicides containing chlorothalonil, mancozeb, or copper hydroxide.
+- Prevention: Rotate crops with non-nightshade plants every 3 years. Ensure proper plant spacing for airflow.
+
+---
+
+## Section 3: Tomato Disease Treatment
+Tomatoes are susceptible to early blight, late blight, and bacterial spot.
+- Bacterial Spot (caused by Xanthomonas) shows as small, water-soaked spots on leaves that turn brown and papery.
+- Organic Treatment: Use copper soap sprays or baking soda solutions (1 tablespoon baking soda, 1 teaspoon liquid organic soap, 1 gallon water).
+- Chemical Treatment: Apply copper hydroxide sprays combined with mancozeb to prevent bacterial spread.
+- Guardrail: Always wear protective masks and gloves when spraying chemical copper-based fungicides. Keep pets and children away from treated fields for at least 24 hours.
+
+---
+
+## Section 4: Apple Scab and Cedar Apple Rust
+Apples suffer from Apple Scab and rust diseases which defoliate trees and ruin fruit.
+- Apple Scab (Venturia inaequalis) shows as olive-green to black spots on leaves.
+- Cedar Apple Rust (Gymnosporangium juniperi-virginianae) appears as bright orange-yellow spots on the upper leaf surface.
+- Organic Control: Rake and burn fallen leaves in autumn to prevent overwintering spores. Spray trees with liquid sulfur or organic copper during early bud break.
+- Chemical Control: Apply preventative fungicides like captan or myclobutanil.
+
+---
+
+## Section 5: Medicinal Plant Care - Aloe Vera and Neem
+Medicinal plants require specialized care to maintain their natural compounds.
+- Aloe Vera Leaf Rot / Rotting: Typically caused by overwatering. Symptoms include soft, mushy, brown leaves.
+  - Organic Care: Immediately stop watering. Remove the plant from the soil, cut away decayed roots, and repot in fresh, sandy cactus mix.
+  - Prevention: Use terra cotta pots with large drainage holes. Water only when the soil is 100% dry.
+- Neem Leaf Spot: Fungal spot diseases can affect neem trees in high humidity.
+  - Organic Care: Spray with a diluted neem oil solution (5ml neem oil, 2ml organic liquid soap, 1 liter warm water) or mild baking soda spray.
+  - Prevention: Prune dense branches to allow sunlight and wind to dry the inner canopy.
+
+---
+
+## Section 6: Powdery Mildew and Rust Prevention
+Generic powdery mildew and rust can impact various crops.
+- Powdery Mildew shows as a white, powdery coating on leaf surfaces, causing leaf curling and stunting.
+  - Organic Cure: Mix 1 part milk with 9 parts water and spray in direct sunlight; the milk proteins act as a natural fungicide. Baking soda sprays are also highly effective.
+- Leaf Rust shows as orange, powdery pustules on leaf undersides.
+  - Organic Cure: Apply copper or sulfur dust. Remove and destroy infected leaves immediately.

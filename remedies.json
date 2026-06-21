@@ -1,0 +1,197 @@
+{
+  "default": {
+    "organic": "Ensure the plant receives balanced watering and compost. Prune affected leaves using clean tools.",
+    "chemical": "Apply a mild broad-spectrum fungicide or copper spray if symptoms persist.",
+    "prevention": "Maintain proper air circulation, avoid watering leaves directly, and keep the soil clean."
+  },
+  "apple___apple_scab": {
+    "organic": "Rake and destroy fallen leaves in autumn. Apply sulfur sprays early in the season.",
+    "chemical": "Apply preventative fungicides containing captan or myclobutanil starting at green tip stage.",
+    "prevention": "Plant resistant cultivars. Prune trees to open up the canopy for better air circulation and sunlight."
+  },
+  "apple___black_rot": {
+    "organic": "Prune out dead wood, cankers, and mummified fruit. Burn or dispose of infected materials.",
+    "chemical": "Use fungicides containing captan or sulfur during the early growing season.",
+    "prevention": "Prune trees in winter, clean tools between cuts with rubbing alcohol, and keep the orchard floor clean."
+  },
+  "apple___cedar_apple_rust": {
+    "organic": "Remove nearby juniper bushes (alternate host). Apply copper or sulfur fungicides.",
+    "chemical": "Apply fungicides containing myclobutanil or triadimefon during bud break.",
+    "prevention": "Grow rust-resistant apple varieties and avoid planting apples close to cedar/juniper trees."
+  },
+  "apple___healthy": {
+    "organic": "Apply organic compost annually and maintain regular pruning in late winter.",
+    "chemical": "No chemical treatment needed for healthy plants.",
+    "prevention": "Continue regular watering, monitoring for pests, and maintaining balanced soil nutrition."
+  },
+  "potato___early_blight": {
+    "organic": "Apply copper fungicides or neem oil. Remove and destroy infected lower leaves immediately.",
+    "chemical": "Apply fungicides containing chlorothalonil, mancozeb, or azoxystrobin at first sign of disease.",
+    "prevention": "Practice crop rotation. Avoid overhead irrigation and water early in the day so leaves dry quickly."
+  },
+  "potato___late_blight": {
+    "organic": "Remove and destroy all infected plants. Apply copper octanoate organic spray to healthy neighbors.",
+    "chemical": "Use heavy-duty fungicides containing chlorothalonil, mancozeb, or copper hydroxide.",
+    "prevention": "Plant certified disease-free seed tubers. Keep potato foliage dry and avoid planting near tomatoes."
+  },
+  "potato___healthy": {
+    "organic": "Keep soil well-aerated. Add organic mulch to conserve moisture.",
+    "chemical": "No chemical treatment needed.",
+    "prevention": "Rotate potato crops every 3 years and avoid planting in fields previously occupied by tomatoes or eggplants."
+  },
+  "tomato___bacterial_spot": {
+    "organic": "Apply copper-based sprays. Remove infected plants and debris immediately.",
+    "chemical": "Apply copper hydroxide mixed with mancozeb to protect remaining healthy foliage.",
+    "prevention": "Buy certified disease-free seeds. Avoid working in the garden when the plants are wet."
+  },
+  "tomato___early_blight": {
+    "organic": "Mulch the soil base. Apply organic copper sprays. Remove infected lower leaves.",
+    "chemical": "Spray fungicides containing chlorothalonil or mancozeb as soon as spots appear.",
+    "prevention": "Provide adequate spacing. Practice a 3-year crop rotation without nightshade crops."
+  },
+  "tomato___late_blight": {
+    "organic": "Uproot and burn infected plants. Protect healthy crops with copper-based organic sprays.",
+    "chemical": "Apply systemic fungicides containing chlorothalonil or copper hydroxide preventatively.",
+    "prevention": "Avoid overhead watering. Maintain proper spacing to reduce humidity around the canopy."
+  },
+  "tomato___leaf_mold": {
+    "organic": "Prune the lower branches to increase airflow. Use organic sulfur sprays.",
+    "chemical": "Apply fungicides containing chlorothalonil or copper soap.",
+    "prevention": "Keep greenhouse humidity below 85%. Use drip irrigation to keep foliage completely dry."
+  },
+  "tomato___healthy": {
+    "organic": "Maintain steady watering. Apply organic compost at the base.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Ensure good soil drainage, weed regularly, and keep a clean garden environment."
+  },
+  "medicinal_aloe_vera___healthy": {
+    "organic": "Provide plenty of indirect sunlight and water only when the top 2 inches of soil are dry.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Ensure the pot has excellent drainage holes to avoid root rot."
+  },
+  "medicinal_aloe_vera___diseased": {
+    "organic": "Repot in fresh succulent mix, cut off mushy infected roots, and let the plant dry out.",
+    "chemical": "Apply a mild copper fungicide if leaf spots spread aggressively.",
+    "prevention": "Do not overwater. Aloe Vera is a desert plant and is highly susceptible to fungal rot in damp soil."
+  },
+  "medicinal_aloe_vera___dried": {
+    "organic": "Give the plant a thorough watering, move it out of harsh direct midday sun, and trim dry tips.",
+    "chemical": "No chemicals needed.",
+    "prevention": "Establish a consistent, moderate watering routine when the soil dries out fully."
+  },
+  "medicinal_aloe_vera___chlorotic": {
+    "organic": "Apply balanced organic nitrogen fertilizer. Check for root binding and repot if needed.",
+    "chemical": "Apply a chelated iron spray or balanced NPK solution if nutrient deficiency is severe.",
+    "prevention": "Use nutrient-rich soil and ensure the plant gets enough indirect sunlight."
+  },
+  "medicinal_neem___healthy": {
+    "organic": "Keep soil moderately moist. Add organic compost once a year.",
+    "chemical": "No chemical treatment needed.",
+    "prevention": "Protect young neem saplings from harsh frost in winter."
+  },
+  "medicinal_neem___diseased": {
+    "organic": "Prune infected leaves. Spray the tree with diluted baking soda and organic soap mixture.",
+    "chemical": "Apply systemic fungicides if leaf spot or rust disease is severe.",
+    "prevention": "Ensure the neem tree is planted in a sunny area with well-draining soil."
+  },
+  "medicinal_neem___dried": {
+    "organic": "Increase watering frequency. Check for root infestation or trunk damage.",
+    "chemical": "No chemicals needed.",
+    "prevention": "Mulch the base of the neem tree to retain moisture in extreme summer heat."
+  },
+  "medicinal_neem___chlorotic": {
+    "organic": "Feed with organic nitrogen-rich fertilizer (like blood meal) and correct soil pH.",
+    "chemical": "Apply micronutrient sprays containing iron, magnesium, and zinc.",
+    "prevention": "Avoid waterlogging the roots, which prevents nutrient absorption."
+  },
+  "generic___healthy": {
+    "organic": "Maintain regular watering and compost application.",
+    "chemical": "No chemical treatment needed.",
+    "prevention": "Continue standard crop care and monitor for early signs of pests."
+  },
+  "generic___powdery": {
+    "organic": "Spray with a mixture of baking soda, water, and non-detergent organic soap. Prune infected leaves.",
+    "chemical": "Apply fungicides containing sulfur, myclobutanil, or triadimefon.",
+    "prevention": "Space plants out for maximum air circulation. Avoid high nitrogen fertilizers which cause lush, susceptible growth."
+  },
+  "generic___rust": {
+    "organic": "Remove and destroy infected leaves immediately. Apply organic copper or sulfur dust.",
+    "chemical": "Apply protective fungicides containing chlorothalonil or mancozeb at the first sign of rust.",
+    "prevention": "Water plants at the base to keep foliage dry. Clean up all crop debris at the end of the season."
+  },
+  "medicinal_background_remove_dataset___centella_asiatica_healthy": {
+    "organic": "Apply well-rotted compost. Keep soil consistently moist but not waterlogged.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Grow in partial shade. Avoid dry soil conditions."
+  },
+  "medicinal_background_remove_dataset___centella_asiatica_insects": {
+    "organic": "Spray with neem oil solution or release beneficial insects like ladybugs.",
+    "chemical": "Apply mild systemic insecticides if the infestation is severe.",
+    "prevention": "Inspect the undersides of leaves weekly and manually remove pests."
+  },
+  "medicinal_background_remove_dataset___centella_asiatica_mild_disease": {
+    "organic": "Prune infected leaves with sanitized tools and apply a baking soda spray.",
+    "chemical": "Use a mild copper-based fungicide if leaf spots begin to spread.",
+    "prevention": "Ensure good air circulation and avoid watering the leaves directly."
+  },
+  "medicinal_background_remove_dataset___hibiscus_rosa_sinensis_healthy": {
+    "organic": "Apply organic potassium-rich fertilizer. Ensure it receives 6+ hours of sunlight daily.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Mulch the soil base to retain moisture and keep the root system cool."
+  },
+  "medicinal_background_remove_dataset___hibiscus_rosa_sinensis_chlorotic": {
+    "organic": "Amend soil with compost and apply an organic iron-rich foliar spray.",
+    "chemical": "Use chelated iron or a complete micronutrient fertilizer to correct pH/deficiency.",
+    "prevention": "Maintain slightly acidic soil (pH 6.0-6.5) and avoid overwatering."
+  },
+  "medicinal_background_remove_dataset___hibiscus_rosa_sinensis_disease": {
+    "organic": "Prune infected branches. Spray with copper soap or sulfur-based organic fungicide.",
+    "chemical": "Use systemic fungicides containing chlorothalonil or myclobutanil.",
+    "prevention": "Avoid overhead watering; clear all fallen leaf debris around the base."
+  },
+  "medicinal_background_remove_dataset___kalanchoe_pinnata_healthy": {
+    "organic": "Water only when the soil is completely dry. Provide bright, indirect light.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Use sandy, fast-draining cactus soil and a pot with drainage holes."
+  },
+  "medicinal_background_remove_dataset___kalanchoe_pinnata_chlorotic": {
+    "organic": "Feed with dilute organic nitrogen-rich fertilizer. Check for root binding.",
+    "chemical": "Apply a balanced water-soluble succulent fertilizer.",
+    "prevention": "Avoid compact soil and ensure the plant gets enough indirect sunlight."
+  },
+  "medicinal_background_remove_dataset___kalanchoe_pinnata_disease": {
+    "organic": "Immediately stop watering. Trim decayed leaves or mushy roots and repot in fresh dry soil.",
+    "chemical": "Apply a systemic copper fungicide if leaf rot spreads.",
+    "prevention": "Keep leaves dry and never let the pot sit in standing water."
+  },
+  "medicinal_background_remove_dataset___mikania_micrantha_healthy": {
+    "organic": "Keep the soil moist and provide a trellis for climbing. Prune to shape.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Maintain consistent watering and check for early signs of fungal spots."
+  },
+  "medicinal_background_remove_dataset___mikania_micrantha_disease": {
+    "organic": "Prune infected leaves and apply neem oil or baking soda solution.",
+    "chemical": "Spray with broad-spectrum organic copper fungicide.",
+    "prevention": "Ensure the vine does not get too dense; prune inner foliage for airflow."
+  },
+  "medicinal_background_remove_dataset___mikania_micrantha_distorted": {
+    "organic": "Remove distorted growth. Spray with insecticidal soap in case distortion is caused by mites/aphids.",
+    "chemical": "Apply miticides or systemic insecticides if pest-induced distortion persists.",
+    "prevention": "Keep the plant healthy and free of pest stress by regular pruning."
+  },
+  "medicinal_background_remove_dataset___piper_betle_healthy": {
+    "organic": "Provide support for climbing. Apply organic nitrogen compost monthly. Grow in partial shade.",
+    "chemical": "No chemical treatment required.",
+    "prevention": "Avoid waterlogging and protect the plant from hot, dry wind."
+  },
+  "medicinal_background_remove_dataset___piper_betle_chlorotic": {
+    "organic": "Apply organic fish emulsion or compost tea. Ensure the soil is well-drained.",
+    "chemical": "Apply a mild nitrogen-rich liquid fertilizer.",
+    "prevention": "Check for root binding and ensure it is not exposed to harsh, direct sunlight."
+  },
+  "medicinal_background_remove_dataset___piper_betle_disease": {
+    "organic": "Remove infected leaves immediately. Spray with a mild baking soda solution or copper soap.",
+    "chemical": "Apply a preventative copper-based fungicide at the first sign of leaf spots.",
+    "prevention": "Keep foliage dry. Ensure excellent soil drainage and ventilation around the vine."
+  }
+}
