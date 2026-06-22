@@ -1,18 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'home_screen.dart';
+import 'splash_screen.dart';
 
 void main() {
-  runApp(const AgriShieldApp());
+  runApp(const AgriGuardApp());
 }
 
-class AgriShieldApp extends StatelessWidget {
-  const AgriShieldApp({super.key});
+class AgriGuardApp extends StatelessWidget {
+  const AgriGuardApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AgriShield AI',
+      title: 'AgriGuard AI',
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system, // Support light/dark modes automatically
       theme: ThemeData(
@@ -48,7 +49,7 @@ class AgriShieldApp extends StatelessWidget {
           centerTitle: true,
         ),
       ),
-      home: const HomeScreen(),
+      home: const SplashScreen(),
     );
   }
 }

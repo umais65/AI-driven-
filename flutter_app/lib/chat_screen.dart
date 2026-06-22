@@ -31,7 +31,7 @@ class _ChatScreenState extends State<ChatScreen> {
     super.initState();
     // Add welcome message from Botanist AI
     _messages.add({
-      'text': "Hello! I am your AgriShield Botanist AI. I have reviewed the diagnosis for your **${widget.plantSpecies}** (${widget.healthStatus}). How can I help you manage this disease today?",
+      'text': "Hello! I am your AgriGuard Botanist AI. I have reviewed the diagnosis for your **${widget.plantSpecies}** (${widget.healthStatus}). How can I help you manage this disease today?",
       'isUser': false,
     });
   }

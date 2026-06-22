@@ -127,7 +127,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     setState(() {
       _isLoading = true;
-      _loadingMessage = "Sending leaf image to AgriShield AI...";
+      _loadingMessage = "Sending leaf image to AgriGuard AI...";
     });
 
     // Cycle messages to keep user engaged
@@ -211,7 +211,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Icon(Icons.shield, color: colors.primary, size: 28),
             const SizedBox(width: 8),
             Text(
-              'AgriShield AI',
+              'AgriGuard AI',
               style: GoogleFonts.outfit(fontWeight: FontWeight.bold, fontSize: 24),
             ),
           ],

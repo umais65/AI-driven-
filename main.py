@@ -44,7 +44,7 @@ except ImportError:
     class EmbeddingFunction:
         pass
 
-app = FastAPI(title="AgriShield AI API", version="1.0.0")
+app = FastAPI(title="AgriGuard AI API", version="1.0.0")
 
 # Enable CORS for mobile connectivity
 app.add_middleware(
@@ -539,7 +539,7 @@ def get_system_prompt(context_text: str) -> str:
     if not template:
         # Hardcoded fallback system instruction if file read fails or doesn't exist
         template = (
-            "You are AgriShield Botanist AI, a helpful and knowledgeable agricultural expert.\n"
+            "You are AgriGuard Botanist AI, a helpful and knowledgeable agricultural expert.\n"
             "Answer the user's question accurately using only the provided context from the Agricultural Knowledge Base.\n"
             "If the question cannot be answered using the context, use your general agricultural knowledge but state that it is general advice.\n\n"
             "Context from Knowledge Base:\n{context_text}\n\n"
@@ -699,7 +699,7 @@ def generate_keyless_response(message: str, context_text: str, context_plant: st
             general_tips.append(line_strip)
             
     response_parts = []
-    response_parts.append(f"🌿 **AgriShield Database Guide for {plant_name} ({disease_name}):**")
+    response_parts.append(f"🌿 **AgriGuard Database Guide for {plant_name} ({disease_name}):**")
     
     matched = False
     
@@ -782,7 +782,7 @@ async def chat(request: ChatRequest):
     message_lower = message.lower()
     if any(k in message_lower for k in non_agri_keywords):
         return {
-            "response": "As your AgriShield Botanist AI, I am specialized in crop health and botany. I cannot assist with non-agricultural questions. Let me know if you have any questions about leaf disease remedies or soil health!",
+            "response": "As your AgriGuard Botanist AI, I am specialized in crop health and botany. I cannot assist with non-agricultural questions. Let me know if you have any questions about leaf disease remedies or soil health!",
             "sources": []
         }
 
