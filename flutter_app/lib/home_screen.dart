@@ -105,8 +105,12 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           ElevatedButton(
             onPressed: () {
+              String url = controller.text.trim();
+              if (url.endsWith('/')) {
+                url = url.substring(0, url.length - 1);
+              }
               setState(() {
-                _baseUrl = controller.text.trim();
+                _baseUrl = url;
               });
               Navigator.pop(context);
               _checkServerStatus();
